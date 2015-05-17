@@ -1,5 +1,7 @@
 .idea
 certificate_java_se_7.iml
+ocp/ocp.iml
+oca/oca.iml
 
 # Windows image file caches
 Thumbs.db
